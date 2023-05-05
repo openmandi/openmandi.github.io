@@ -4,7 +4,7 @@ Last Updated: May 05, 2023
 
 This Privacy Policy describes how openmandi.com ("we", "us", or "our") collects, uses, and shares your personal information when you use our mobile application, २०४८ (2048 - हिंदी) (the "App"). By using the App, you agree to the collection, use, and sharing of your personal information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the App.
 
-## Information We Collect
+## Information We Collect ##
 
 We collect the following types of information from you when you use the App:
 - Personal Information: Personal information is data that can be used to identify you directly or indirectly. This may include, but is not limited to, your name, email address, phone number, and location data.
@@ -25,14 +25,14 @@ We do not sell your personal information to third parties. However, we may share
 - As required by law or to protect our legal rights and interests, such as to comply with a court order, subpoena, or other legal processes.
 - In connection with a merger, acquisition, or other business transaction involving us, where your information may be transferred to a successor entity.
 
-## Security##
+## Security ##
 We take appropriate technical and organizational measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission or storage is completely secure, and we cannot guarantee the absolute security of your personal information.
 
-## Changes to This Privacy Policy##
+## Changes to This Privacy Policy ##
 We may update this Privacy Policy from time to time. If we make any changes, we will notify you by posting the updated policy on the App or by sending you an email notification. We encourage you to review the Privacy Policy periodically to stay informed about our privacy practices.
 
 ## Contact Us ##
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at admin@openmandi.com.
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at chandresh@openmandi.com.
 
 ## Your Rights ##
 You may have certain rights under applicable data protection laws, such as the right to access, correct, or delete your personal information. To exercise these rights, please contact us using the contact information provided above.
