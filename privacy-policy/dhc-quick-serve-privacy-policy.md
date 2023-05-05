@@ -1,6 +1,6 @@
 ## Privacy Policy for DHC - Quick Serve
 
-Last Updated: April 10, 2023
+Last Updated: May 05, 2023
 
 This Privacy Policy describes how openmandi.com ("we", "us", or "our") collects, uses, and shares your personal information when you use our mobile application, DHC - Quick Serve (the "App"). By using the App, you agree to the collection, use, and sharing of your personal information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the App.
 
