@@ -4,35 +4,34 @@ Last Updated: May 05, 2023
 
 This Privacy Policy describes how openmandi.com ("we", "us", or "our") collects, uses, and shares your personal information when you use our mobile application, २०४८ (2048 - हिंदी) (the "App"). By using the App, you agree to the collection, use, and sharing of your personal information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the App.
 
-## Information We Collect ##
+## Information Collection and Use ##
+The App does not collect any user data. The App serves two webviews from two APIs, but the Developer does not collect any personal data from the users.
 
-We collect the following types of information from you when you use the App:
-- Personal Information: Personal information is data that can be used to identify you directly or indirectly. This may include, but is not limited to, your name, email address, phone number, and location data.
-- Usage Data: Usage data includes information about how you use the App, such as the features you use, the actions you take, and the time, frequency, and duration of your activities.
+## Log Data ##
+The Developer does not collect any log data when you use the App.
 
-## How We Use Your Information ##
-We use the information we collect for the following purposes:
-- To provide, maintain, and improve the App and our services.
-- To understand how you use the App and tailor our services to your preferences.
-- To communicate with you, such as to respond to your inquiries, provide updates or notifications, and for other customer service purposes.
-- To protect the security and integrity of the App and our services, and to enforce our Terms of Service.
-- To comply with applicable laws and regulations, and to protect our legal rights and interests.
+## Cookies ##
+The Developer does not use cookies or similar tracking technologies when you use the App.
 
-## Sharing Your Information ##
-We do not sell your personal information to third parties. However, we may share your personal information with third parties in the following circumstances:
-- With your consent, when you choose to share information with third parties through the App.
-- With service providers that help us operate and maintain the App, such as hosting providers, analytics providers, and customer support providers.
-- As required by law or to protect our legal rights and interests, such as to comply with a court order, subpoena, or other legal processes.
-- In connection with a merger, acquisition, or other business transaction involving us, where your information may be transferred to a successor entity.
+## Use of Data ##
+The Developer does not collect any data from the users, and therefore does not use any data for any purpose.
+
+## Transfer of Data ##
+As the Developer does not collect any data from the users, there is no transfer of data to any third parties.
+
+## Disclosure of Data ##
+The Developer does not collect any data from the users and therefore does not disclose any data to any third parties.
 
 ## Security ##
-We take appropriate technical and organizational measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission or storage is completely secure, and we cannot guarantee the absolute security of your personal information.
+The Developer values the trust in providing the users with a safe experience while using the App. As the Developer does not collect any data from the users, there is no personal data stored or processed. However, the Developer cannot guarantee the absolute security of the information transmitted through the App.
+
+## Links to Other Sites ##
+The App may contain links to other sites that are not operated by the Developer. If you click on a third-party link, you will be directed to that third party's site. The Developer strongly advises you to review the Privacy Policy of every site you visit.
+
+The Developer has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Changes to This Privacy Policy ##
-We may update this Privacy Policy from time to time. If we make any changes, we will notify you by posting the updated policy on the App or by sending you an email notification. We encourage you to review the Privacy Policy periodically to stay informed about our privacy practices.
+The Developer may update the Privacy Policy from time to time. The Developer will notify you of any changes by posting the new Privacy Policy on this page.
 
-## Contact Us ##
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at chandresh@openmandi.com.
-
-## Your Rights ##
-You may have certain rights under applicable data protection laws, such as the right to access, correct, or delete your personal information. To exercise these rights, please contact us using the contact information provided above.
+## Contact the Developer ##
+If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact the Developer at [chandresh@openmandi.com].
