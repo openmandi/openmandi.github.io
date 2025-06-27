@@ -1,5 +1,5 @@
 # Privacy Policy #
-Effective date: [05/05/2023]
+Effective date: [28/06/2025]
 
 [Swipe Cards] ("the App") is operated by [Chandresh Kumar] ("the Developer"). This page informs users of the App ("you" or "the user") about the Developer's policies regarding the collection, use, and disclosure of personal data when using the App and the choices you have associated with that data.
 
